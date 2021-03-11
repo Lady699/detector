@@ -1,0 +1,2 @@
+# detector
+deteccion de imagenes 
